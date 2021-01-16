@@ -1,2 +1,6 @@
 # birdGame
-a simple intresting game with HTML CSS JS
+thsis is a simple and intresting game made with : 
+- JS
+- CSS
+- HTml
+
