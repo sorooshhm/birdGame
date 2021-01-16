@@ -10,7 +10,8 @@
 
   </p>
 </div>
-thsis is a simple and intresting game made with : 
+## about this game
+this is a simple and intresting game made with : 
 - JS
 - CSS
 - HTml
