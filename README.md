@@ -9,10 +9,15 @@
   <p>
 
   </p>
+  <h2>about this game</h2>
+  <div>this is a simple and intresting game made by :
+  
+  <ul>
+  <li>JS</li>
+  <li>CSS</li>
+  <li>HTML</li>
+  
+</ul>
 </div>
-## about this game
-this is a simple and intresting game made with : 
-- JS
-- CSS
-- HTml
+
 
